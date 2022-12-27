@@ -164,7 +164,7 @@ const Header=()=>{
                     <div className="small-img" style={{width: '400px', height: '270px', position: 'relative'}}>
                     <Image
                             alt='Mountains'
-                            src='/image/portfolio.png'
+                            src='/image/Portfolio.png'
                             fill
                         />
                     </div>
