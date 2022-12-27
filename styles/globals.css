@@ -513,14 +513,15 @@ body {
 
 @media (max-width:582px) {
     .box-div p {
-        width: 348px;
+        width: 272px;
+        font-size: 14px;
     }
     .footer-div p {
         width: 334px;
     }
     .box2 h1 {
         width: 344px;
-        padding-left: 80px;
+        padding-left: 46px;
     }
     .text-box {
         font-size: 11px;
@@ -546,6 +547,37 @@ body {
     }
     .midil-div h5 {
         font-size: 13px;
+    }
+    .small-img {
+        width: 307px !important;
+    }
+    .hiper-div {
+        padding: 0 20px;
+    }
+    .fifth-div {
+        padding: 0 39px;
+    }
+    .div-imgs {
+        width: 317px !important;
+    }
+    .midil-div p {
+        width: 322px;
+        font-size: 14px;
+    }
+    .box1 {
+        margin: 0;
+    }
+    .box2 small {
+        display: flex;
+        justify-content: center;
+        font-size: 9px;
+    }
+    .footer-div p {
+        width: 281px;
+    }
+    .room-text {
+        width: 285px;
+        padding: 0 5px;
     }
 }
 

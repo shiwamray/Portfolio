@@ -196,7 +196,7 @@ const Header=()=>{
             </section>
 
             <section className="footer-div">
-                <div>
+                <div className="room-text">
                 <h2>Contact</h2>
                 <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Eos, harum! Quisquam eius officiis placeat, hic possimus, iure magni et nulla unde consequuntur, consequatur perferendis?</p>
                 <span>ibrhabmemn930@gmail.com</span>
