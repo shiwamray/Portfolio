@@ -66,8 +66,8 @@ const Header=()=>{
             <section>
                 <div className="midil-div">
                     <div>
-                        <h1 style={{fontFamily: 'Preahvihear'}}>I'm a Software Engineer.|</h1>
-                        <h5>Currently I'm a Software Engineer at Facebook</h5>
+                        <h1 style={{fontFamily: 'Preahvihear'}}>I&apos;m a Software Engineer.|</h1>
+                        <h5>Currently I&apos;m a Software Engineer at Facebook</h5>
                         <p>Lorem ipsum dolor sit amet 
                             consectetur adipisicing elit. Quaerat 
                             provident nam et iste ullam qui enim expedita

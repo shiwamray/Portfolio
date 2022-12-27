@@ -10,7 +10,7 @@ const Carasol = () => {
           <Carousel>
           <div className='carosel-div' style={{display:'flex',flexDirection:'row',flex:100}}>
             <div style={{display:'flex',flex:50, height:'auto'}}>
-               <img src="image/img 1.jpg" alt=""/>
+               <Image src="/image/img 1.jpg" alt="" width={400}  height={400}/>
             </div>
             <div style={{display:'flex',flex:50}}>
               <div className='king-div'>
@@ -30,7 +30,7 @@ const Carasol = () => {
           </div>
           <div className='carosel-div' style={{display:'flex',flexDirection:'row',flex:100}}>
             <div style={{display:'flex',flex:50, height:'auto'}}>
-               <img src="image/img 1.jpg" alt=""/>
+               <Image src="/image/img 1.jpg" alt="" width={400} height={400}/>
             </div>
             <div style={{display:'flex',flex:50}}>
               <div className='king-div'>
@@ -50,7 +50,7 @@ const Carasol = () => {
           </div>
           <div className='carosel-div' style={{display:'flex',flexDirection:'row',flex:100}}>
             <div style={{display:'flex',flex:50, height:'auto'}}>
-               <img src="image/img 1.jpg" alt=""/>
+               <Image src="/image/img 1.jpg" alt="" width={400} height={400}/>
             </div>
             <div style={{display:'flex',flex:50}}>
               <div className='king-div'>
